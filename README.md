@@ -1,7 +1,4 @@
-Hello, Egor Shkarin!
+Hello, Egor!
 .
 .
-Say me hello
-Please
-wertyuiop[
-В четверг четвертого числа
+.
